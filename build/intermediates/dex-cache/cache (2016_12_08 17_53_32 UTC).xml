@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c182edd67790eda36e2a1ed3e863c5b21e7f176f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_bb3c4440d0b4799194a764700522d4f0d434f0e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhiprae\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_d06acdc5161e577c16a0d14a10513e47023d6d3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_e82d46a563067a52d7622d4913aff5d1726f1504\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_4e202b3b89b9671b09918e8c97e1245fe2c2aba7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ace4225d381fae3d4c9d6b3adac1334f822a3edb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1ec84a066fbf33ff6e7ff2fd91517060d960f80f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_469599ced8d2c7582ffa8cfbb216dcd4427188d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a126225c584da9e67c53d40a524b6337a0f688fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_337041aed369aa41dc6d7f431e86520b41ed2efb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_166591caf4f07368dca99cbd4f99c595d8e1f143\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="abf368141241326442cb4cede40c8709c9302cf2">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_108de6619ba2aeb0fb432674c7433e54f9db1844\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d8809cc67d05dca6aa7cf4a9c3e26f9801ca6354\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_414bcfbe90e583c2cc1d7b143b4482cc779acd94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_c8fee4522be30781a0defadd9a26db889b1bb836\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_e654d7346576c99a7d5a9e8c19ca3c2ef34b65aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd84b4d48dba8a21a7c8575689dcbeb426ce0cde">
+        <dex dex="C:\Users\Abhiprae\AndroidStudioProjects\NFCRead\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b09d0ae4f1cd4ac445521818b8ec13ed76cd81ea\classes.dex" />
+    </item>
+
+</items>

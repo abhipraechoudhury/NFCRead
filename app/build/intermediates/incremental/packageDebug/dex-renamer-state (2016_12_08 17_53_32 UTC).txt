@@ -1,0 +1,7 @@
+#Thu Dec 08 18:01:38 IST 2016
+base.0=C\:\\Users\\Abhiprae\\AndroidStudioProjects\\NFCRead\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_108de6619ba2aeb0fb432674c7433e54f9db1844
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Abhiprae\\AndroidStudioProjects\\NFCRead\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b09d0ae4f1cd4ac445521818b8ec13ed76cd81ea\\classes.dex
+base.1=C\:\\Users\\Abhiprae\\AndroidStudioProjects\\NFCRead\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b09d0ae4f1cd4ac445521818b8ec13ed76cd81ea
+file.0=C\:\\Users\\Abhiprae\\AndroidStudioProjects\\NFCRead\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_108de6619ba2aeb0fb432674c7433e54f9db1844\\classes.dex
